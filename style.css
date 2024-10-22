@@ -1,0 +1,10 @@
+* {
+  font-family: poppins;
+}
+.banner {
+  background: url("https://img.freepik.com/premium-vector/watercolor-sunflower-background-design_118960-4183.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #ffffff;
+}
